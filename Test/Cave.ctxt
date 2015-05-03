@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=n\ i
+comment0.target=Cave(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getImage()
+comment2.params=
+comment2.target=java.util.HashMap\ getExits()
+comment3.params=e\ r
+comment3.target=void\ addExit(java.lang.String,\ Cave)
+comment4.params=
+comment4.target=java.util.HashMap\ getItems()
+comment5.params=i\ d
+comment5.target=void\ addItem(java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=java.util.ArrayList\ getGrabbables()
+comment7.params=g
+comment7.target=void\ addGrabbable(java.lang.String)
+comment8.params=g
+comment8.target=void\ removeGrabbable(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
